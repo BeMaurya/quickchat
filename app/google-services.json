@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816381634037",
+    "project_id": "quick-message-5a35d",
+    "storage_bucket": "quick-message-5a35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381634037:android:e09a8b3c910e7482272cbc",
+        "android_client_info": {
+          "package_name": "com.bewithmaurya.quickmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381634037-4d8jj03jgec3560dv5svp7sbvbi2o9rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxglcjaHEuUTAE9bOHtkY7NLBW2sWiSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816381634037-4d8jj03jgec3560dv5svp7sbvbi2o9rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

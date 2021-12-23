@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_chat_input.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_content_bottom.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_icon.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_image.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_input.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_message_recieved.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/background_sent_message.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/backgrount_content_top.xml" value="0.22552083333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/ic_notifications.xml" value="0.20989583333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/drawable/ic_security.xml" value="0.20989583333333334" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_chat.xml" value="0.1953125" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_sign_up.xml" value="0.1953125" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/activity_users.xml" value="0.209375" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/item_container_recieved_message.xml" value="0.209375" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/item_container_reent_conversion.xml" value="0.25" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/item_container_sent_message.xml" value="0.209375" />
+        <entry key="..\:/CEG/3rd_Year/5th_Semester/CA5501&amp;CA5511(MobileApplication(Android))/CA5511_Lab/Lab4/QuickMessage/app/src/main/res/layout/item_container_user.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
