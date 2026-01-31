@@ -85,7 +85,7 @@ Before running the project, ensure the following are set up:
   ```
 - 2️⃣ Open the project in Android Studio
 - 3️⃣ Configure Firebase
-  - Ensure google-services.json is present in the app/ directory
+  - Ensure `google-services.json` is present in the app/ directory
   - Update Firebase configuration if required
 - 4️⃣ Sync Gradle files
 - 5️⃣ Run the application ▶️
@@ -94,7 +94,7 @@ Before running the project, ensure the following are set up:
 
 ## ❤️ Contributions
 Contributions are welcome!
-Fork the repo → Create a branch → Add feature → Submit PR
+> Fork the repo → Create a branch → Add feature → Submit PR
 
 </br></br>
 <div align="center">
