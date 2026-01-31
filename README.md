@@ -10,17 +10,17 @@ quickchat/
 │   │   ├── main/                                 # Main application source code
 │   │   ├── androidTest/                          # Instrumentation tests
 │   │   └── test/                                 # Unit tests
-│   ├── build.gradle                             # App-level Gradle config
-│   ├── google-services.json                     # Firebase configuration
+│   ├── build.gradle                              # App-level Gradle config
+│   ├── google-services.json                      # Firebase configuration
 │   └── proguard-rules.pro
 │
 ├── gradle/
-│   └── wrapper/                                 # Gradle wrapper files
+│   └── wrapper/                                  # Gradle wrapper files
 │
-├── .idea/                                       # Android Studio project settings
-├── build.gradle                                 # Project-level Gradle config
+├── .idea/                                        # Android Studio project settings
+├── build.gradle                                  # Project-level Gradle config
 ├── settings.gradle
-├── gradlew / gradlew.bat                        # Gradle scripts
+├── gradlew / gradlew.bat                         # Gradle scripts
 ├── .gitignore
 └── README.md
 ```
