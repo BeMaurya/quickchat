@@ -25,10 +25,6 @@ quickchat/
 └── README.md
 ```
 
-## 📌 Project Description
-QuickChat demonstrates the core principles behind a real-time messaging system, including message delivery, Firebase integration, and Android app architecture.  
-The project was developed for learning and educational purposes, with emphasis on backend connectivity and mobile UI interaction.
-
 ## ✨ Features
 - 💬 Real-time chat messaging
 - 👥 One-to-one user communication
@@ -38,11 +34,11 @@ The project was developed for learning and educational purposes, with emphasis o
 - 🧪 Basic unit and instrumentation test structure
 
 ## 🧰 Tech Stack
-- 🤖 Android (Java)
-- ☕ Java
-- 🔥 Firebase (Realtime Database / Services)
-- 🛠️ Gradle (Build system)
-- 🧪 Android Studio
+- 🤖 Android (Java) — Native Android application development
+- ☕ Java — Core programming language
+- 🔥 Firebase — Realtime Database, Authentication & Backend Services
+- 🛠️ Gradle — Build automation and dependency management
+- 🧪 Android Studio — Primary IDE for development and debugging
 
 ## 🧩 Architecture Overview
 QuickChat follows a client–cloud architecture, where the Android app communicates with Firebase to store and retrieve messages in real time.
@@ -75,11 +71,12 @@ QuickChat follows a client–cloud architecture, where the Android app communica
 - 🔄 Realtime Sync: Ensures instant message delivery across users
 
 ## ⚙️ How to Run the Project
-### 🧱 Prerequisites
-- Android Studio installed
-- Java JDK
-- Firebase account
-- Android emulator or physical device
+### 🧱 Prerequisites  
+Before running the project, ensure the following are set up:
+- 💻 Android Studio (latest stable version recommended)
+- ☕ Java JDK (compatible with Android Studio)
+- 🔥 Firebase Account (for Realtime Database & services)
+- 📱 Android Emulator or Physical Android Device
 
 ### ▶️ Run Instructions
 - 1️⃣ Clone the repository
